@@ -1,4 +1,4 @@
-# Springboot vuejs 后台权限管理系统搭建（二)—前端工程Element UI 搭建
+# **Springboot vuejs 后台权限管理系统搭建**（二)—前端工程Element UI 搭建
 ## 工程简介
 ```text
 	工程mountain-element-ui是基于 vue-admin-template扩展的, 主要实现权限管理系统，包括用户管理、角色管理、部门管理、菜单管理等。实现动态路由加载，树形结构展示、表格数据展示等。
@@ -12,7 +12,7 @@
 
 ## 工程目录说明
 
-![](E:\项目\学习项目\自己博客文章\博客文章\imgs\mountain-element-ui-ml.png)
+![](.\imgs\mountain-element-ui-ml.png)
 
 
 
@@ -37,7 +37,7 @@
 
 * 登录页面vue代码在`src/views/login`路径下
 
-  ![](E:\项目\学习项目\自己博客文章\博客文章\imgs\mountain-element-ui-login-code.png)
+  ![](.\imgs\mountain-element-ui-login-code.png)
 
 
 
@@ -45,13 +45,13 @@
 
 * 主页面header(头文件)和侧边栏页面代码在`src/layout/components`这个路径中，左上角图标是在`Sidebar`侧边栏中使用`Logo.vue`组件
 
-  ![](E:\项目\学习项目\自己博客文章\博客文章\imgs\mountain-element-ui-main-code.png)
+  ![](.\imgs\mountain-element-ui-main-code.png)
 
 
 
 * 页面布局组件：请看`src/layout/index.vue`组件
 
-  ![](E:\项目\学习项目\自己博客文章\博客文章\imgs\mountain-element-ui-main-code2.png)
+  ![](.\imgs\mountain-element-ui-main-code2.png)
 
 ## 业务页面组件
 
@@ -59,19 +59,19 @@
 
 * 用户管理
 
-  ![](E:\项目\学习项目\自己博客文章\博客文章\imgs\mountain-element-ui-user.png)
+  ![](.\imgs\mountain-element-ui-user.png)
 
 * 角色管理
 
-  ![](E:\项目\学习项目\自己博客文章\博客文章\imgs\mountain-element-ui-role.png)
+  ![](.\imgs\mountain-element-ui-role.png)
 
 * 部门管理
 
-  ![](E:\项目\学习项目\自己博客文章\博客文章\imgs\mountain-element-ui-dept.png)
+  ![](.\imgs\mountain-element-ui-dept.png)
 
 * 菜单管理
 
-  ![](E:\项目\学习项目\自己博客文章\博客文章\imgs\mountain-element-ui-menu.png)
+  ![](.\imgs\mountain-element-ui-menu.png)
 
 
 
@@ -440,6 +440,5 @@ lintOnSave: process.env.NODE_ENV === 'development'
 * 集成Swagger2
 * 集成quartz框架
 * 集成docker
-* 前端工程搭建：基于vue-element-admin扩展
 * 权限管理系统实现：用户管理、角色管理、部门管理、菜单管理等模块
 
