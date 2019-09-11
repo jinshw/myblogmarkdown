@@ -2,6 +2,10 @@
 
 # SpringBoot后台权限管理系统（三)—权限模块
 
+[SpringBoot 后台权限框架搭建（一）](https://juejin.im/post/5d56678651882579675ed736)
+
+[SpringBoot后台权限管理系统（二)—前端工程搭建](https://juejin.im/post/5d5d12096fb9a06afc25460f)
+
 ```text
 权限模块主要包括用户管理、部门管理、角色管理、菜单管理模块。以下主要从数据库表创建、页面、接口主要实现点的讲述。
 ```
